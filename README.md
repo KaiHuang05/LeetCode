@@ -11,6 +11,7 @@ LeetCode exercise from an undergraduate student from Bachelor Degree Computer Sc
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KaiHuang05/LeetCode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/KaiHuang05/LeetCode/tree/master/0007-reverse-integer) |
 ## Recursion
 |  |
 | ------- |
