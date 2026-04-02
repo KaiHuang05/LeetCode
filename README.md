@@ -24,6 +24,7 @@ LeetCode exercise from an undergraduate student from Bachelor Degree Computer Sc
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/KaiHuang05/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/KaiHuang05/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Dynamic Programming
 |  |
