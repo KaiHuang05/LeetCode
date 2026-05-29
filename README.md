@@ -24,6 +24,7 @@ LeetCode exercise from an undergraduate student from Bachelor Degree Computer Sc
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KaiHuang05/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/KaiHuang05/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/KaiHuang05/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Dynamic Programming
@@ -38,4 +39,12 @@ LeetCode exercise from an undergraduate student from Bachelor Degree Computer Sc
 |  |
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/KaiHuang05/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KaiHuang05/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KaiHuang05/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
