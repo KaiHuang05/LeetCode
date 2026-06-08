@@ -21,6 +21,7 @@ LeetCode exercise from an undergraduate student from Bachelor Degree Computer Sc
 | ------- |
 | [0717-1-bit-and-2-bit-characters](https://github.com/KaiHuang05/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/KaiHuang05/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/KaiHuang05/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## String
 |  |
 | ------- |
@@ -45,6 +46,7 @@ LeetCode exercise from an undergraduate student from Bachelor Degree Computer Sc
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KaiHuang05/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/KaiHuang05/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Sliding Window
 |  |
 | ------- |
@@ -53,4 +55,12 @@ LeetCode exercise from an undergraduate student from Bachelor Degree Computer Sc
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KaiHuang05/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/KaiHuang05/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/KaiHuang05/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
