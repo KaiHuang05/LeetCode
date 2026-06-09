@@ -23,6 +23,7 @@ LeetCode exercise from an undergraduate student from Bachelor Degree Computer Sc
 | [0744-find-smallest-letter-greater-than-target](https://github.com/KaiHuang05/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/KaiHuang05/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/KaiHuang05/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3689-maximum-total-subarray-value-i](https://github.com/KaiHuang05/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 ## String
 |  |
 | ------- |
@@ -69,4 +70,8 @@ LeetCode exercise from an undergraduate student from Bachelor Degree Computer Sc
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/KaiHuang05/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+## Greedy
+|  |
+| ------- |
+| [3689-maximum-total-subarray-value-i](https://github.com/KaiHuang05/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 <!---LeetCode Topics End-->
