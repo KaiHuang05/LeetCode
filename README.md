@@ -26,6 +26,7 @@ LeetCode exercise from an undergraduate student from Bachelor Degree Computer Sc
 | [0015-3sum](https://github.com/KaiHuang05/LeetCode/tree/master/0015-3sum) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/KaiHuang05/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/KaiHuang05/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0983-minimum-cost-for-tickets](https://github.com/KaiHuang05/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/KaiHuang05/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/KaiHuang05/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3689-maximum-total-subarray-value-i](https://github.com/KaiHuang05/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
@@ -43,6 +44,7 @@ LeetCode exercise from an undergraduate student from Bachelor Degree Computer Sc
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KaiHuang05/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0983-minimum-cost-for-tickets](https://github.com/KaiHuang05/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/KaiHuang05/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/KaiHuang05/LeetCode/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 ## Stack
