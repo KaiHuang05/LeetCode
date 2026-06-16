@@ -23,6 +23,7 @@ LeetCode exercise from an undergraduate student from Bachelor Degree Computer Sc
 | [0004-median-of-two-sorted-arrays](https://github.com/KaiHuang05/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/KaiHuang05/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/KaiHuang05/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/KaiHuang05/LeetCode/tree/master/0015-3sum) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/KaiHuang05/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/KaiHuang05/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/KaiHuang05/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -68,6 +69,7 @@ LeetCode exercise from an undergraduate student from Bachelor Degree Computer Sc
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KaiHuang05/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/KaiHuang05/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/KaiHuang05/LeetCode/tree/master/0015-3sum) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/KaiHuang05/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Tree
 |  |
@@ -95,4 +97,8 @@ LeetCode exercise from an undergraduate student from Bachelor Degree Computer Sc
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/KaiHuang05/LeetCode/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/KaiHuang05/LeetCode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
