@@ -6,8 +6,9 @@ class Solution {
             if (ch == '{' || ch == '(' || ch == '['){
                 stack.push(ch);
             }else{
+                // important
                 if (stack.isEmpty()) return false;
-                
+
                 char current = stack.pop();
                 if ((current == '{' && ch != '}') ||
                     (current == '(' && ch != ')') ||
