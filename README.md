@@ -12,6 +12,7 @@ LeetCode exercise from an undergraduate student from Bachelor Degree Computer Sc
 | ------- |
 | [0002-add-two-numbers](https://github.com/KaiHuang05/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/KaiHuang05/LeetCode/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/KaiHuang05/LeetCode/tree/master/0013-roman-to-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -32,6 +33,7 @@ LeetCode exercise from an undergraduate student from Bachelor Degree Computer Sc
 | [0003-longest-substring-without-repeating-characters](https://github.com/KaiHuang05/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/KaiHuang05/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/KaiHuang05/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/KaiHuang05/LeetCode/tree/master/0013-roman-to-integer) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/KaiHuang05/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Dynamic Programming
 |  |
@@ -51,6 +53,7 @@ LeetCode exercise from an undergraduate student from Bachelor Degree Computer Sc
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KaiHuang05/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/KaiHuang05/LeetCode/tree/master/0013-roman-to-integer) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/KaiHuang05/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Sliding Window
 |  |
