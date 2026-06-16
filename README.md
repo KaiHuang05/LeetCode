@@ -30,6 +30,7 @@ LeetCode exercise from an undergraduate student from Bachelor Degree Computer Sc
 | [0200-number-of-islands](https://github.com/KaiHuang05/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/KaiHuang05/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/KaiHuang05/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0347-top-k-frequent-elements](https://github.com/KaiHuang05/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/KaiHuang05/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/KaiHuang05/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0983-minimum-cost-for-tickets](https://github.com/KaiHuang05/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
@@ -72,6 +73,7 @@ LeetCode exercise from an undergraduate student from Bachelor Degree Computer Sc
 | [0003-longest-substring-without-repeating-characters](https://github.com/KaiHuang05/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/KaiHuang05/LeetCode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/KaiHuang05/LeetCode/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/KaiHuang05/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/KaiHuang05/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Sliding Window
 |  |
@@ -107,6 +109,7 @@ LeetCode exercise from an undergraduate student from Bachelor Degree Computer Sc
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/KaiHuang05/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0347-top-k-frequent-elements](https://github.com/KaiHuang05/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Trie
 |  |
 | ------- |
@@ -116,6 +119,7 @@ LeetCode exercise from an undergraduate student from Bachelor Degree Computer Sc
 | ------- |
 | [0015-3sum](https://github.com/KaiHuang05/LeetCode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/KaiHuang05/LeetCode/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/KaiHuang05/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -136,4 +140,20 @@ LeetCode exercise from an undergraduate student from Bachelor Degree Computer Sc
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/KaiHuang05/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/KaiHuang05/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/KaiHuang05/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/KaiHuang05/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/KaiHuang05/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
