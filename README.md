@@ -41,6 +41,7 @@ LeetCode exercise from an undergraduate student from Bachelor Degree Computer Sc
 | [0008-string-to-integer-atoi](https://github.com/KaiHuang05/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/KaiHuang05/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/KaiHuang05/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/KaiHuang05/LeetCode/tree/master/0020-valid-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/KaiHuang05/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/KaiHuang05/LeetCode/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [3612-process-string-with-special-operations-i](https://github.com/KaiHuang05/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
@@ -54,6 +55,7 @@ LeetCode exercise from an undergraduate student from Bachelor Degree Computer Sc
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/KaiHuang05/LeetCode/tree/master/0020-valid-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/KaiHuang05/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Binary Search
 |  |
