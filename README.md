@@ -22,6 +22,7 @@ LeetCode exercise from an undergraduate student from Bachelor Degree Computer Sc
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/KaiHuang05/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/KaiHuang05/LeetCode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/KaiHuang05/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/KaiHuang05/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/KaiHuang05/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/KaiHuang05/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -34,6 +35,7 @@ LeetCode exercise from an undergraduate student from Bachelor Degree Computer Sc
 | [0005-longest-palindromic-substring](https://github.com/KaiHuang05/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/KaiHuang05/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/KaiHuang05/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/KaiHuang05/LeetCode/tree/master/0014-longest-common-prefix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/KaiHuang05/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/KaiHuang05/LeetCode/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 ## Dynamic Programming
@@ -89,4 +91,8 @@ LeetCode exercise from an undergraduate student from Bachelor Degree Computer Sc
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/KaiHuang05/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/KaiHuang05/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
