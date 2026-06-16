@@ -24,6 +24,7 @@ LeetCode exercise from an undergraduate student from Bachelor Degree Computer Sc
 | [0011-container-with-most-water](https://github.com/KaiHuang05/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/KaiHuang05/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/KaiHuang05/LeetCode/tree/master/0015-3sum) |
+| [0200-number-of-islands](https://github.com/KaiHuang05/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/KaiHuang05/LeetCode/tree/master/0217-contains-duplicate) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/KaiHuang05/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/KaiHuang05/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -108,4 +109,20 @@ LeetCode exercise from an undergraduate student from Bachelor Degree Computer Sc
 | ------- |
 | [0015-3sum](https://github.com/KaiHuang05/LeetCode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/KaiHuang05/LeetCode/tree/master/0217-contains-duplicate) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/KaiHuang05/LeetCode/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/KaiHuang05/LeetCode/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/KaiHuang05/LeetCode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/KaiHuang05/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
