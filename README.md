@@ -35,11 +35,13 @@ LeetCode exercise from an undergraduate student from Bachelor Degree Computer Sc
 | [0008-string-to-integer-atoi](https://github.com/KaiHuang05/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/KaiHuang05/LeetCode/tree/master/0013-roman-to-integer) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/KaiHuang05/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/KaiHuang05/LeetCode/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KaiHuang05/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/KaiHuang05/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/KaiHuang05/LeetCode/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 ## Stack
 |  |
 | ------- |
@@ -81,6 +83,7 @@ LeetCode exercise from an undergraduate student from Bachelor Degree Computer Sc
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KaiHuang05/LeetCode/tree/master/0011-container-with-most-water) |
+| [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/KaiHuang05/LeetCode/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [3689-maximum-total-subarray-value-i](https://github.com/KaiHuang05/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Divide and Conquer
 |  |
