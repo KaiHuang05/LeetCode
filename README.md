@@ -31,6 +31,7 @@ LeetCode exercise from an undergraduate student from Bachelor Degree Computer Sc
 | [0217-contains-duplicate](https://github.com/KaiHuang05/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/KaiHuang05/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/KaiHuang05/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/KaiHuang05/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/KaiHuang05/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/KaiHuang05/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0983-minimum-cost-for-tickets](https://github.com/KaiHuang05/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
@@ -74,6 +75,7 @@ LeetCode exercise from an undergraduate student from Bachelor Degree Computer Sc
 | [0013-roman-to-integer](https://github.com/KaiHuang05/LeetCode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/KaiHuang05/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/KaiHuang05/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/KaiHuang05/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/KaiHuang05/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Sliding Window
 |  |
@@ -140,6 +142,7 @@ LeetCode exercise from an undergraduate student from Bachelor Degree Computer Sc
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/KaiHuang05/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/KaiHuang05/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
