@@ -91,10 +91,12 @@ LeetCode exercise from an undergraduate student from Bachelor Degree Computer Sc
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/KaiHuang05/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/KaiHuang05/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/KaiHuang05/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/KaiHuang05/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Simulation
 |  |
@@ -125,6 +127,7 @@ LeetCode exercise from an undergraduate student from Bachelor Degree Computer Sc
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/KaiHuang05/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/KaiHuang05/LeetCode/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
@@ -159,4 +162,8 @@ LeetCode exercise from an undergraduate student from Bachelor Degree Computer Sc
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/KaiHuang05/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/KaiHuang05/LeetCode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
